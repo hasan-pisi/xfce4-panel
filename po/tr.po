@@ -20,6 +20,7 @@
 # Sabri Ünal <libreajans@gmail.com>, 2022
 # Serdar Sağlam <teknomobil@msn.com>, 2019-2020
 # Zafer Eren <zaferern@gmail.com>, 2014
+# Hasan YILDIZ <hasanyildiz1071@yandex.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: Xfce4-panel\n"
